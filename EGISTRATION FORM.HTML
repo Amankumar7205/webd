@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="final.css">
+</head>
+<body>
+  <style>
+
+  </style>
+ <nav>
+    <form>
+    <h2 style="color:aqua"> REGISTRATION FORM</h2>
+    <label for="name">Name</label><br>
+    <input style="color:aquamarine" type="text" id="name" name="name" required> <br><br>
+
+     <label for="age">Age</label><br>
+    <input type="number" id="age" name="age" required> <br><br>
+
+     <label for="gender">Gender</label><br>
+    <input type="radio" id="male" name="gender" required> 
+    <label for="male">Male</label>
+      <input type="radio" id="female" name="gender" required>
+    <label for="female">Female</label><br><br>
+
+    <label for="country">Country</label><br>
+    <select id="country" name ="country"> 
+        <option value=""> select your country</option>
+        <option value="pakistan">Pakistan</option>
+        <option value="usa"> usa</option>
+        <option value="mathura">mathura</option><br><br>
+    </select><br><BR>
+
+<div>
+     <label for="skills">Skills:</label><br>
+     <input type="checkbox" id="html" name="skills[]" value="HTML">
+     <label for="html">HTML</label><br><br>
+      <input type="checkbox" id="css" name="skills[]" value="CSS">
+     <label for="css">CSS</label><br><br>
+      <input type="checkbox" id="python" name="skills[]" value="Python">
+     <label for="python">Python</label><br><br>
+     </div>
+    <button type="submit">Register</button>
+    </form>
+  </nav>
+</body>
+</html>

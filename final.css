@@ -1,0 +1,20 @@
+.aman{
+    color: red;
+}
+#name{color: aquamarine;
+}
+    
+    
+  #age{
+
+    color: brown;
+}
+h1,h3{
+    color: darkorchid;
+}
+h2:hover{
+    background-color: yellow;
+}
+*{
+    background-color: rgb(90, 46, 123);
+}

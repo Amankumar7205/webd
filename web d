@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="basic.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aman</title>
+</head>
+<body>
+    <h1 > <b ></b>THE SUPER HERO </b> </h1>
+        <h2> Hanumaan</h2>
+        <p> Hanuman, the Monkey God, is typically depicted with distinctive physical attributes in Hindu iconography. His appearance carries symbolic and mythological significance. Here's an explanation of Hanuman's physical appearance:  </p>
+
+    <ol>
+    <li>    Monkey-Faced: </li>
+    <p> Hanuman is invariably depicted with the face of a monkey, which is one of his most defining features. His monkey face signifies his lineage as a Vanara (a race of monkey-like beings) and symbolizes his agility, intelligence, and resourcefulness. </p>
+    <li> Muscular Body:  </li>
+    <p> Hanuman is often portrayed with a robust and muscular physique, emphasizing his immense strength and physical prowess. His muscular form represents his capability to perform extraordinary feats</p>
+    <li> Orange or Reddish-Brown Complexion: </li>
+    <p> Hanuman's body is typically depicted with an orange or reddish-brown complexion. This color symbolizes his association with Lord Shiva, as red or orange is often associated with asceticism and renunciation.</p>
+    </ol>
+<img src ="lord.jpeg"
+alt =" Hanumaan ji"
+height ="300px"
+width ="300px">
+</body>
+</html>
